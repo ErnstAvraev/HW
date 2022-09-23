@@ -1,0 +1,28 @@
+Elena Simankova: https://habr.com/ru/post/275813/
+Elena Simankova: Гарвардский курс CS50
+https://habr.com/ru/company/vertdider/blog/403823/
+
+Алгоритмы и структуры данных
+https://www.youtube.com/c/pavelmavrin
+
+Интерактивный учебник по C#
+https://ulearn.me/course/basicprogramming/69a2e121-e58f-4cd0-8221-7affb7dc796e
+
+Задания на сайтах (челленджи, олимпиады, батлы)
+https://leetcode.com
+https://codeforces.com/catalog или https://codeforces.com/problemset
+https://app.codesignal.com/login
+https://www.videosharp.info/console/book
+
+Видео-уроки по созданию игр на C#
+https://www.youtube.com/c/DebroneConstant/videos
+
+Статья от разработчика про привычки, которые помогут начинающим программистам быстрее влиться в работу и продвинуться в карьере (на англ).
+https://www.freecodecamp.org/news/good-habits-for-junior-developers/
+Elena Simankova: https://habr.com/ru/post/200758/ или https://russianblogs.com/article/1115865913/ или https://www.evkova.org/esse/klassicheskaya-zadacha-hanojskaya-bashnya
+
+Elena Simankova: https://www.youtube.com/watch?v=NOaSY5pJmyc
+
+Elena Simankova: https://www.youtube.com/watch?v=jvFULnNpNLg
+
+sharplab.io
